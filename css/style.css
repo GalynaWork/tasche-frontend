@@ -16609,3 +16609,7 @@ h5 {
     display: inline-block;
   }
 }
+
+.pid__desc_info_color span[style*="#fafafa"] {
+    background: linear-gradient(to bottom right, rgb(30, 150, 0), rgb(255, 242, 0), rgb(255, 0, 0))!important;
+}
