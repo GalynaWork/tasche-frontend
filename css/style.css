@@ -14869,8 +14869,7 @@ h5 {
     -moz-transition: opacity .5s ease;
     -o-transition: opacity .5s ease;
     transition: opacity .5s ease;
-    z-index: 30;
-    max-height:436px;
+    z-index: 30;  
     
   }
   .catalog-list__title-mobile {
